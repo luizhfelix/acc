@@ -1,5 +1,13 @@
 {
+    "name": "accenture/acc",
+    "description": "Acc",
+    "authors": [
+        {
+            "name": "Accenture",
+            "email": "luiz.henrique.felix@accenture.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
-        "monolog/monolog": "1.0.*"
     }
 }
